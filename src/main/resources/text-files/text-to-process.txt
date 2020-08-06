@@ -1,13 +1,13 @@
 Text #1 to process:
-Objective of data processing:
+Objective of data processing and machine learning:
 Handle huge volume of data.
 
 Text #2 to process:
-Objective of data processing:
+Objective of data processing and machine learning:
 Qualitative and quantitative information.
 
 Text #3 to process:
-Objective of data processing:
+Objective of data processing and machine learning:
 Proper and timely information.
 
 Text #4 to process:
@@ -15,7 +15,7 @@ Objective of data processing:
 Storage and retrieval of data.
 
 Text #5 to process:
-Objective of data processing:
+Objective of data processing and machine learning:
 Helps in decision-making.
 
 Text #6 to process:
@@ -23,7 +23,7 @@ Objective of data processing:
 Improves productivity.
 
 Text #7 to process:
-Objective of data processing:
+Objective of data processing and machine learning:
 Maintaining performance at optimum level.
 
 Text #8 to process:

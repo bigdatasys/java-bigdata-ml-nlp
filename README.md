@@ -1,7 +1,7 @@
 ## Applications for Big Data processing
 
 ### General info
-Building ...
+Building Applications for Big Data processing using Spark and Machine Learning
 	
 ### Technologies
 The Project is created with:
