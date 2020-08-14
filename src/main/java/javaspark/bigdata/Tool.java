@@ -10,7 +10,7 @@ public class Tool {
     private static Set<String> elements = new HashSet<String>();
 
     static {
-        InputStream is = Tool.class.getResourceAsStream("/text-files/elements-to-exclude.txt");
+        InputStream is = Tool.class.getResourceAsStream("/text-files-set1/elements-to-exclude.txt");
         BufferedReader br = new BufferedReader(new InputStreamReader(is));
         br.lines().forEach(elements::add);
     }

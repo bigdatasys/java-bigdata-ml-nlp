@@ -20,7 +20,7 @@ public class TextProcessing {
         SparkConf conf = new SparkConf().setAppName("TextProcessingApp").setMaster("local[*]");
         JavaSparkContext sc = new JavaSparkContext(conf);
 
-        JavaRDD<String> inputRDD = sc.textFile("src/main/resources/text-files/text-to-process.txt");
+        JavaRDD<String> inputRDD = sc.textFile("src/main/resources/text-files-set1/text-to-process.txt");
 
         JavaRDD<String> toLettersRDD = inputRDD.map( sentence -> sentence.replaceAll("[^a-zA-Z\\s]", "").toLowerCase() );
 
