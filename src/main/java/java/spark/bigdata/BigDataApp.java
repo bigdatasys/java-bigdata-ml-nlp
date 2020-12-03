@@ -1,4 +1,4 @@
-package javaspark.bigdata;
+package java.spark.bigdata;
 
 import org.apache.spark.SparkConf;
 import org.apache.spark.api.java.JavaRDD;
@@ -32,7 +32,7 @@ public class BigDataApp {
         JavaRDD<Double> javaRDD = sc.parallelize(doubleList);
         //map
         JavaRDD<Integer> mappedRDD = javaRDD.map(val -> (int)Math.round(val));
-        mappedRDD.collect().forEach(x->System.out.println(x));
+        mappedRDD.collect().forEach(System.out::println);
         //reduce
         int reducedResult = mappedRDD.reduce(Integer::sum);
         System.out.println(reducedResult);

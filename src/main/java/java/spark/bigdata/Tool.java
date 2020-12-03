@@ -1,4 +1,4 @@
-package javaspark.bigdata;
+package java.spark.bigdata;
 
 import java.io.BufferedReader;
 import java.io.InputStream;
