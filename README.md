@@ -1,4 +1,4 @@
-# Applications for Big Data using Spark, Deep Learning and Natural language processing methods
+# Applications for Big Data using Spark, Deep Learning and Natural Language Processing methods
 
 ## Dependencies
 * Java: 8
