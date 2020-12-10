@@ -7,6 +7,7 @@
 * Apache Maven: 3.3.0
 * Deeplearning4j
 * OpenNLP
+* Python: 3.9.1
 
 ## Technology stack
 * IntelliJ IDEA Ultimate
