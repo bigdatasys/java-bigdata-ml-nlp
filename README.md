@@ -11,6 +11,7 @@
 
 ## Technology stack
 * Java, Python
+* Spark, Hadoop, Maven
 * IntelliJ IDEA Ultimate
 
 ## Features
