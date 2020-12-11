@@ -1,6 +1,6 @@
 # Applications for Big Data using Spark, Deep Learning and Natural Language Processing methods
 
-## Dependencies
+## Technology stack & dependencies
 * Java: 8
 * Apache Spark: 3.0.0 
 * Hadoop: 3.3.0
@@ -8,10 +8,6 @@
 * Deeplearning4j
 * OpenNLP
 * Python: 3.9.1
-
-## Technology stack
-* Java, Python
-* Spark, Hadoop, Maven
 * IntelliJ IDEA Ultimate
 
 ## Features
