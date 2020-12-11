@@ -10,6 +10,7 @@
 * Python: 3.9.1
 
 ## Technology stack
+* Java, Python
 * IntelliJ IDEA Ultimate
 
 ## Features
