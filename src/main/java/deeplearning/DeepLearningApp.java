@@ -1,4 +1,4 @@
-package java.deeplearning;
+package deeplearning;
 
 import java.io.IOException;
 

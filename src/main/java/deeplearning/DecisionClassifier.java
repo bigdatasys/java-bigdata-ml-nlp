@@ -1,4 +1,4 @@
-package java.deeplearning;
+package deeplearning;
 
 import org.datavec.api.records.reader.RecordReader;
 import org.datavec.api.records.reader.impl.csv.CSVRecordReader;

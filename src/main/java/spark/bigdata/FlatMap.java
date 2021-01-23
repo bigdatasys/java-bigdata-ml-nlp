@@ -1,4 +1,4 @@
-package java.spark.bigdata;
+package spark.bigdata;
 
 import org.apache.log4j.Level;
 import org.apache.log4j.Logger;

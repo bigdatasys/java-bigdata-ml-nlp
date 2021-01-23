@@ -83,7 +83,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>java.spark.bigdata.BigDataApp</mainClass>
+                            <mainClass>spark.bigdata.BigDataApp</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

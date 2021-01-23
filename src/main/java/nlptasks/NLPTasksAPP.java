@@ -1,8 +1,8 @@
-package java.nlptasks;
+package nlptasks;
 
 import java.io.IOException;
 
-import static java.nlptasks.OpenNLP.*;
+import static nlptasks.OpenNLP.*;
 
 public class NLPTasksAPP {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package java.spark.bigdata;
+package spark.bigdata;
 
 import org.apache.spark.SparkConf;
 import org.apache.spark.api.java.JavaSparkContext;

@@ -1,4 +1,4 @@
-package java.deeplearning;
+package deeplearning;
 
 public class Decision {
     private Double topic1Decision;
